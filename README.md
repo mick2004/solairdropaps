@@ -1,4 +1,4 @@
-# Solana Wallet Manager
+# Solairdropaps Wallet Manager
 
 ![Solana Logo](https://www.solana.com/favicon.ico)
 
@@ -34,8 +34,8 @@ Before using this script, ensure you have the following installed:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/solana-wallet-manager.git
-    cd solana-wallet-manager
+    git clone https://github.com/mick2004/solairdropaps.git
+    cd solairdropaps
     ```
 
 2. Install dependencies:
